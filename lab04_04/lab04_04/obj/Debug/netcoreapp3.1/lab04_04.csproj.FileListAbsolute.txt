@@ -1,0 +1,11 @@
+/Users/ilyaletenkov/Projects/lab04_04/lab04_04/obj/Debug/netcoreapp3.1/lab04_04.csprojAssemblyReference.cache
+/Users/ilyaletenkov/Projects/lab04_04/lab04_04/obj/Debug/netcoreapp3.1/lab04_04.AssemblyInfoInputs.cache
+/Users/ilyaletenkov/Projects/lab04_04/lab04_04/obj/Debug/netcoreapp3.1/lab04_04.AssemblyInfo.cs
+/Users/ilyaletenkov/Projects/lab04_04/lab04_04/bin/Debug/netcoreapp3.1/lab04_04
+/Users/ilyaletenkov/Projects/lab04_04/lab04_04/bin/Debug/netcoreapp3.1/lab04_04.deps.json
+/Users/ilyaletenkov/Projects/lab04_04/lab04_04/bin/Debug/netcoreapp3.1/lab04_04.runtimeconfig.json
+/Users/ilyaletenkov/Projects/lab04_04/lab04_04/bin/Debug/netcoreapp3.1/lab04_04.runtimeconfig.dev.json
+/Users/ilyaletenkov/Projects/lab04_04/lab04_04/bin/Debug/netcoreapp3.1/lab04_04.dll
+/Users/ilyaletenkov/Projects/lab04_04/lab04_04/bin/Debug/netcoreapp3.1/lab04_04.pdb
+/Users/ilyaletenkov/Projects/lab04_04/lab04_04/obj/Debug/netcoreapp3.1/lab04_04.dll
+/Users/ilyaletenkov/Projects/lab04_04/lab04_04/obj/Debug/netcoreapp3.1/lab04_04.pdb
